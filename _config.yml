@@ -1,8 +1,1 @@
-theme: jekyll-theme-minimal
-description: [weiluge's tree hole log.]
-favicon: favicon.ico
-language: chinese
-use_logo: true
-logo: https://avatars.githubusercontent.com/u/2352309?s=96&v=4
-search_in_topnav: true
-search_in_sidebar: true
+theme: jekyll-theme-architect
