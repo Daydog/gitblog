@@ -3,6 +3,7 @@ My personal blog using issues and GitHub Actions
 ## 友情链接
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
+| yihong0618 | https://github.com/yihong0618/gitblog | 跑步+开源 爱好者 |
 ## 最近更新
 - [友情链接](https://github.com/Daydog/gitblog/issues/4)--2021-09-16
 - [fork 2021](https://github.com/Daydog/gitblog/issues/3)--2021-09-16
