@@ -4,7 +4,7 @@
 
 - [x] running page 是可以记录跑步的 程序
 
-- [ ] GitHubposter 是可以 可视化 记录“ 一切”活动的 程序
+- [x] GitHubposter 是可以 可视化 记录“ 一切”活动的 程序
 
 
 2021
