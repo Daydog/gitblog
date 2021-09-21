@@ -10,3 +10,7 @@ git add .
 git commit -m "message"
 git push -u origin master
 ```
+
+
+[20% git 操作 - teamlab-frontend](https://scrapbox.io/teamlab-frontend/20%25_git_%E6%93%8D%E4%BD%9C)
+[Learn Git- Git tutorials, workflows and commands | Atlassian Git Tutorial](https://www.atlassian.com/git)
